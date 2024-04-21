@@ -1,0 +1,92 @@
+<!doctype html>
+<html dir="ltr" lange="es">
+<meta charset"utf-8">
+<head>
+<title>Cultura de la Empresa</title>
+</head>
+<body background="img\fondo3.jpg">
+<font face="arial">
+&nbsp;<a href="index.html"><img src="img\ic_ca.png" width="45" height="45"></a>
+<center>
+<img src="img\logo1.png" width="500" height="100"> 
+</center>
+<p align="left"><a href="https://www.instagram.com/opentechdr?igsh=Mnc0MG5seGJpZXA3" target="_blank"><img src="img\ic_ins.png" width="35" height="35"></a>&nbsp;
+<a href="https://www.facebook.com/opentech574?mibextid=LQQJ4d" target="_blank"><img src="img\ic_fa.png" width="35" height="35"></a>&nbsp;
+<img src="img\ic_co.png" width="35" height="35">opentech574@gmail.com</p>
+<hr color="#144227" size="5px"/>
+&nbsp;<a href="his.html"><img src="img\atras.png" width="100" height="75"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="serv.html"><img src="img\next.png" width="100" height="75"></a>
+
+<!--1ra tabla-->
+<table align="center" rules="all" style="width:80%" height="45" border="1" bordercolor="#E6E6E6" cellspacing="0" cellpadding="15">
+<tr>
+<th bgcolor="#a2d5c6" style="width:30%"><font size="4"><center><font size="6"><img src="img\ic_mis.png" width="35" height="35">&nbsp;<b>MISIÓN</b></font></center></th>
+<th bgcolor="#98fb98" style="width:30%"><font size="4"><center><font size="6"><img src="img\ic_vis.png" width="35" height="35">&nbsp;<b>VISIÓN</b></font></center></th>
+<th bgcolor="#ffdab9" style="width:50%"><font size="4"><center><font size="6"><img src="img\ic_va.png" width="35" height="35">&nbsp;<b>VALORES</b></font></center></th>
+</tr>
+<td style="width:38%">
+<font size="4"><p align="justify"><b>
+• Es proporcionar productos de calidad, desde dispositivos móviles hasta accesorios, y servicios de internet confiables y accesibles. 
+Nos esforzamos por crear un ambiente acogedor donde nuestros clientes puedan recibir asesoramiento experto y encontrar soluciones personalizadas para sus necesidades tecnológicas. 
+Además, buscamos fomentar la inclusión digital al proporcionar acceso a internet y recursos tecnológicos a comunidades que de otra manera podrían no tenerlo. 
+Nuestro objetivo es ser un socio confiable para nuestros clientes, brindándoles las herramientas y el apoyo que necesitan para estar conectados en un mundo cada vez más digitalizado.
+</b></p></font></td>
+
+<!--2da tabla-->
+
+<td style="width:38%">
+<font size="4"><p align="justify"><b>
+• Nos visualizamos como el destino preferido para la tecnología móvil y la conectividad en nuestra comunidad y más allá. 
+Buscamos ser reconocidos como líderes en la provisión de dispositivos móviles de última generación, accesorios innovadores y servicios de internet confiables. 
+Aspiramos a ser un centro de excelencia en tecnología, donde nuestros clientes encuentren soluciones integrales para todas sus necesidades digitales. 
+Nos esforzamos por ser pioneros en la adopción de nuevas tecnologías y en la creación de experiencias únicas para nuestros clientes, promoviendo la 
+inclusión digital y el acceso equitativo a la conectividad en todas las comunidades que servimos.
+</b></p></font></td>
+
+<!--3ra tabla-->
+
+<td style="width:38%"><font size="4">
+<ul><b>
+<li>Excelencia</li>
+<li>Integridad</li>
+<li>Orientación al cliente</li>
+<li>Innovación</li>
+<li>Responsabilidad social</li>
+<li>Colaboración</li>
+<li>Adaptabilidad</li>
+<li>Empoderamiento</li>
+<li>Kaizen</li>
+</b></ul>
+</font></td>
+</table>
+</font>
+</body>
+</html>
